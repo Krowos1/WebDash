@@ -1,15 +1,12 @@
 # WebDash
-Fast, interactive terminal application for launching your favorite websites with beautiful UI and full mouse support. Easily customizable for any collection of web resources - documentation, tools, social media, or entertainment.
+Fast, interactive terminal application for launching your favorite websites with beautiful UI. Easily customizable for any collection of web resources - documentation, tools, social media, or entertainment.
 
 # 🐹 Go Resources CLI
-
-A beautiful, interactive command-line application built with Go and Bubble Tea that provides quick access to essential Go programming resources. Navigate through curated learning materials and open them directly in your browser with just a few keystrokes or mouse clicks.
 
 ## ✨ Features
 
 ### 🎯 **Interactive Navigation**
 - **Keyboard Navigation**: Use arrow keys (↑/↓) or vim-style keys (k/j) to browse through resources
-- **Mouse Support**: Full mouse integration including scroll wheel navigation and click-to-select
 - **Instant Access**: Press Enter, Space, or click to open resources directly in your default browser
 
 ### 📚 **Curated Go Resources**
@@ -27,10 +24,6 @@ The application comes pre-loaded with 5 essential Go learning resources:
 - **Responsive Layout**: Adapts to different terminal sizes
 - **Non-intrusive**: Uses alternate screen buffer, preserving your terminal history
 
-### 🖥️ **Cross-Platform Compatibility**
-- **Windows**: Uses `cmd /c start` command
-- **macOS**: Uses `open` command  
-- **Linux/Unix**: Automatically detects available browsers (Chrome, Chromium, Firefox, or xdg-open)
 
 ## 🚀 **Quick Start**
 
